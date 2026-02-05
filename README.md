@@ -9,7 +9,8 @@ Interested in low-level development, real-time systems, and firmware debugging.
 📧 muhammadsajidk183@gmail.com  
 🔗 LinkedIn: linkedin.com/in/muhammadsajid-embedded  
 💻 GitHub: github.com/Sajidk2002  
-🌐 Portfolio: sajidk2002.github.io
+🌐 Portfolio: [sajidk2002.github.io](https://muhammadsajidk-075ra0a.gamma.site/
+)
 
 
 ## 🌐 Socials:
