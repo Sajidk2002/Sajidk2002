@@ -1,5 +1,5 @@
 ## Muhammad Sajid K  
-Embedded Systems Engineer (Fresher)
+Embedded Systems Engineer
 
 Embedded Systems Engineer (ECE 2024) trained at Vector India, Bangalore.  
 Focused on Embedded C, ARM Cortex-M firmware, FreeRTOS, and CAN-based systems.  
