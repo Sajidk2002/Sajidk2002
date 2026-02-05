@@ -1,5 +1,57 @@
-# 💫 About Me:
-### Hi, I'm Muhammad Sajid 👋<br><br>Embedded Systems Engineer trained at Vector India, focused on ARM Cortex-M firmware and real-time embedded systems.<br><br>- 🔧 Currently working on ARM Cortex-M firmware and CAN-based automotive projects  <br>- 🚗 Developed a Reverse Parking System using CAN with sub-100ms response time  <br>- 🤖 Built an Automated Waste Collection Robot using OpenCV and embedded control  <br>- 🧠 Interested in FreeRTOS, device drivers, and low-level firmware design  <br>- 🌱 Currently learning Linux internals for embedded and industrial systems  <br>- 💬 Ask me about Embedded C/C++, STM32, FreeRTOS, CAN, UART, SPI, I2C  <br>- ⚡ Fun fact: I enjoy debugging complex embedded issues more than writing code<br>
+MUHAMMAD SAJID K
+Embedded Systems Engineer (Fresher)
+
+Location: Wayanad, Kerala, India
+Phone: +91 7034669910
+Email: muhammadsajidk183@gmail.com
+LinkedIn: linkedin.com/in/muhammadsajid-embedded
+GitHub: github.com/Sajidk2002
+Portfolio: sajidk2002.github.io
+
+PROFESSIONAL SUMMARY
+Embedded Systems Engineer (ECE 2024) trained at Vector India, Bangalore. Strong foundation in Embedded C, ARM Cortex-M microcontrollers, FreeRTOS, and real-time embedded systems. Hands-on experience in automotive and robotics-based embedded projects.
+
+TECHNICAL SKILLS
+Programming Languages: Embedded C, C, C++, Python (basic)
+Microcontrollers: ARM Cortex-M (STM32), 8051
+RTOS: FreeRTOS
+Communication Protocols: CAN, UART, SPI, I2C
+Peripherals: GPIO, Timers, PWM, ADC
+Development Tools: Keil µVision, STM32CubeIDE, Proteus
+Version Control: Git
+Operating Systems: Linux (basic)
+
+TRAINING & EXPERIENCE
+Embedded Systems Trainee  
+Vector India Pvt. Ltd., Bangalore  
+August 2024 – June 2025
+
+- Developed embedded applications using Embedded C and ARM Cortex-M
+- Worked on bare-metal and FreeRTOS-based firmware
+- Implemented device drivers for UART, SPI, I2C, CAN, GPIO, Timers, and PWM
+- Debugged and tested firmware using Keil, STM32CubeIDE, and Proteus
+- Gained hands-on experience with real-time embedded system concepts
+
+PROJECTS
+Reverse Parking System (Automotive Embedded Project)
+- Developed a CAN-based embedded system for parking assistance
+- Implemented real-time communication using CAN protocol
+- Achieved fast and reliable response for safety applications
+- Technologies used: Embedded C, ARM Cortex-M, CAN, FreeRTOS
+
+Automated Waste Collection Robot
+- Worked on embedded control logic for robotic movement
+- Used PWM for motor control and sensor interfacing
+- Integrated basic computer vision concepts for automation
+- Technologies used: ARM Cortex-M, Embedded C, UART, I2C, PWM
+
+EDUCATION
+Bachelor of Technology (B.Tech) in Electronics and Communication Engineering
+KMCT College of Engineering, Kerala
+2020 – 2024
+
+CERTIFICATION
+Embedded Systems Training – Vector India Pvt. Ltd., Bangalore
 
 
 ## 🌐 Socials:
